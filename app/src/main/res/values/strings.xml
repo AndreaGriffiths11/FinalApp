@@ -5,7 +5,7 @@
     <string name="item_name">Product Name</string>
     <string name="item_sold"> - Mark product Sold</string>
     <string name="new_shipment"> + New Shipment</string>
-    <string name="need_to_add_items">Click + button to insert a product</string>
+    <string name="need_to_add_items">Click ADD NEW PRODUCT button to insert a product</string>
     <string name="add_item">Add New Product</string>
     <string name="mark_sale">Product Sold</string>
 
