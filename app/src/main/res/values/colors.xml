@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Activity color -->
+    <color name="colorPrimary">#ec0694</color>
+    <color name="colorPrimaryDark">#ed32c2</color>
+    <color name="colorAccent">#616161</color>
+
+    <!-- Primary color for the editor -->
+    <color name="editorColorPrimary">#f72dad</color>
+
+    <!-- Primary dark color for the editor -->
+    <color name="editorColorPrimaryDark">#3fbcff</color>
+</resources>
